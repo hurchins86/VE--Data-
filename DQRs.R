@@ -812,8 +812,13 @@ for (i in country) {
   
 }
 
+<<<<<<< HEAD
 #####
 ## Learning git
+=======
+
+## Learning gits
+>>>>>>> a6d5af2307e7f1a2fe9e526e79c0267ba59df8c3
 
 
 
